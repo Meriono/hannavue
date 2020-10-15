@@ -46,7 +46,7 @@
               max-height="8vh"
               color="transparent"
           >
-            <v-card-text>
+            <v-card-text class="hanna">
               <p class="text--black">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh sed pulvinar proin gravida. Risus nullam eget felis eget. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Fermentum leo vel orci porta non pulvinar neque laoreet suspendisse. Ac turpis egestas maecenas pharetra convallis posuere morbi leo urna. Est lorem ipsum dolor sit amet consectetur. Dui vivamus arcu felis bibendum ut tristique et. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl.</p>
             </v-card-text>
           </v-card>
@@ -84,6 +84,10 @@ export default {
 </script>
 
 <style scoped>
+.hanna {
+  padding-top: 4px !important;
+}
+
 ::-webkit-scrollbar {
   width: 3px;
 }
