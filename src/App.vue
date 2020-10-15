@@ -7,7 +7,9 @@
       flat
     >
       <v-card width="30vh" dark class="pt-14" color="#2A2A2A">
-        <v-card-text align="center">Loggan ska vara här</v-card-text>
+        <v-card-text align="center">
+          <v-icon x-large>mdi-skull-outline</v-icon>
+        </v-card-text>
       </v-card>
       <v-spacer></v-spacer>
 
