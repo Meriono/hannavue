@@ -31,22 +31,6 @@
           Hjälp
         </v-tab>
       </v-tabs>
-
-<!--      <v-btn target="_blank" color="rgb(255,255,255,0.3)">Produkter</v-btn>-->
-<!--      <v-spacer></v-spacer>-->
-
-<!--      <v-btn target="_blank" color="rgb(255,255,255,0.3)">Återförsäljare</v-btn>-->
-<!--      <v-spacer></v-spacer>-->
-
-<!--      <v-btn target="_blank" color="rgb(255,255,255,0.3)">Om oss</v-btn>-->
-<!--      <v-spacer></v-spacer>-->
-
-<!--      <v-btn target="_blank" color="rgb(255,255,255,0.3)">Kontakt</v-btn>-->
-<!--      <v-spacer></v-spacer>-->
-
-<!--      <v-btn target="_blank" color="rgb(255,255,255,0.3)">Hjälp</v-btn>-->
-<!--      <v-spacer></v-spacer>-->
-
     </v-app-bar>
 
     <v-navigation-drawer
