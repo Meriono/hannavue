@@ -11,24 +11,24 @@
       </v-card>
       <v-spacer></v-spacer>
 
-      <v-tabs>
+      <v-tabs color="#2A2A2A" fixed-tabs>
         <v-tab>
           Start
         </v-tab>
         <v-tab target="_blank">
-          Start
+          Produkter
         </v-tab>
         <v-tab target="_blank" color="rgb(255,255,255,0.3)">
-          Start
+          Återförsäljare
         </v-tab>
         <v-tab target="_blank" color="rgb(255,255,255,0.3)">
-          Start
+          Om oss
         </v-tab>
         <v-tab target="_blank" color="rgb(255,255,255,0.3)">
-          Start
+          Kontakt
         </v-tab>
         <v-tab target="_blank" color="rgb(255,255,255,0.3)">
-          Start
+          Hjälp
         </v-tab>
       </v-tabs>
 
